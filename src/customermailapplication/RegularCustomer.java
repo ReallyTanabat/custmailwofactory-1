@@ -6,11 +6,7 @@
 
 package customermailapplication;
 
-/**
- *
- * @author sarun
- */
-//make this class a subclass of customer
+
 public class RegularCustomer extends Customer {
 
     @Override

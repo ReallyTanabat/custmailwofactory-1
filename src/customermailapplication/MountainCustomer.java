@@ -13,7 +13,7 @@ package customermailapplication;
 //make this class a subclass of customer
 public class MountainCustomer extends Customer {
 
-    @Override
+  @Override
     public String createMail() {
         return "Moutain Customer";
     }
